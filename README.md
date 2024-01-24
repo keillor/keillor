@@ -12,6 +12,7 @@ I am currently 🖥 studying computer science at 🏫 Cal State University Fulle
 
 ## I have experience:
 - Using low-level electronics with high level programming languages (Raspberry pi GPIO, Arduino)
+- Languages: Python 🐍, HTML 🌐, CSS 🎨, JavaScript 📜, C++ 🏇, C 🐊, and Flutter 🐦 
 
 
 
