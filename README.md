@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-My name is Keillor Jennings (but I also go by KJ) :)
+My name is Keillor Jennings, but I often go by KJ :)
 
 I am currently 🖥 studying computer science at 🏫 Cal State University Fullerton 📚 ✏ and work part time in my off time 🏰
 
 ## I've been working on:
 - A scheduling platform for my co-workers and I to trade shifts on 📅
+- A "Guess Who" clone where users can provide their own pictures and play with friends online.
+- My senior capstone project.
 
 ## I like:
 - Things that make people's lives easier
